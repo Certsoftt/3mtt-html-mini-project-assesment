@@ -3,11 +3,12 @@ The web page has three parts:
 - Header
 - Main Section
 - Footer
-#Header Section
+  
+##Header Section
 The Header section contains the navigation menu.
 
-#Main Section
+##Main Section
 This holds the Profile Bio Section
 
-#Footer
+##Footer
 This section contains the contact details and social media handles
