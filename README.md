@@ -97,18 +97,19 @@ This section contains the contact details and social media handles. To implement
 ```
 
 ## Important Notes On Code Practice
-- Accessibility & Optimization:<br/>
+- ### Accessibility & Optimization:<br/>
 1. `<img>` html element should have `alt` attribute that provides an alternative text for screen users and machines, and `loading` attribute to enable `lazy` loading and optimization
-2. The text used to display links in `<a>` html element should a clarity on what the point to and not a generic approach like using "click here", rather use "read more", "chat up on whatsapp" and so on.   
-- Consistent Styling & Robustness:<br/>
+2. The text used to display links in `<a>` html element should a clarity on what the point to and not a generic approach like using "click here", rather use "read more", "chat up on whatsapp" and so on.
+   
+- ### Consistent Styling & Robustness:<br/>
 1. `<img>` html element should have a specified dimensions to prevent layout shifts on cross-platforms
 2. `<img>`, `<svg>`, or HTML Unicode or Entity should be used when trying to include an icon or emoji in html rather than directly using an icon symbol or emoji which this can cause inconsistentcy when accessed using cross-platforms.
 3. Use of consistent headings html element pattern.
 
-- Better SEO:<br/>
+- ### Better SEO:<br/>
 1. It is best that a web page contains only one(1) `<h1>` html element and a hierarchical inclusion of sub-headings from `<h2>` to `<h6>`.
 
-- Readability & Maintenability:<br/>
+- ### Readability & Maintenability:<br/>
 1. The use of semantic element and less of non-semantic element to enhance code clarity and maintenability
 2. Easy to maintain a cohesive design and the use of global styles across different pages when semantic elements are in used.
 
